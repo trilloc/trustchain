@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-using-nodejs",
+  "version": "1.0.0",
+  "description": "A simple blockchain using Nodejs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashank Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.3"
+  }
+}
