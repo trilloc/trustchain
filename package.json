@@ -9,8 +9,13 @@
   "author": "Shashank Tiwari",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "@babel/runtime": "^7.15.3",
+    "big-integer": "^1.6.48",
+    "bignumber.js": "^9.0.1",
+    "body-parser": "^1.19.0",
     "crypto-js": "^3.1.9-1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "meteor-node-stubs": "^1.1.0",
+    "sha512": "^0.0.1"
   }
 }
